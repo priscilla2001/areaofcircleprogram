@@ -1,0 +1,6 @@
+#Area of a circle
+R=float(input("enter the radius value"))
+pi=3.14
+a=pi*R*R
+print("The area of the circle{}".format(a))
+
